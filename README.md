@@ -1,2 +1,3 @@
-# MP10_gemeyess
-Repositori dedicat a MP10. Daniel García Andrés
+# Repositori MP10
+## Daniel García Andrés 
+### Usuari de github: @gemeyess
